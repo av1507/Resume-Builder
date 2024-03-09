@@ -41,14 +41,7 @@ If you are interested in contributing (fixing bugs, impoving features, or creati
 
 ## Report Bugs and Feature Requests
 
-File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/sadanandpai/resume-builder/issues/new/choose) page. 
 
-[View all issues.](https://github.com/sadanandpai/resume-builder/issues)
 
-## Core Contributors
 
-<a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/yakshaG"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
 
-## License
-
-This repository is [MIT licensed](./LICENSE).
